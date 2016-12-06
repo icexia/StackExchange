@@ -1,0 +1,8 @@
+G:\VS2015ProgramTest\Redis\Redis\bin\Debug\Redis.exe.config
+G:\VS2015ProgramTest\Redis\Redis\bin\Debug\Redis.exe
+G:\VS2015ProgramTest\Redis\Redis\bin\Debug\Redis.pdb
+G:\VS2015ProgramTest\Redis\Redis\bin\Debug\StackExchange.Redis.dll
+G:\VS2015ProgramTest\Redis\Redis\bin\Debug\StackExchange.Redis.xml
+G:\VS2015ProgramTest\Redis\Redis\obj\Debug\Redis.csprojResolveAssemblyReference.cache
+G:\VS2015ProgramTest\Redis\Redis\obj\Debug\Redis.exe
+G:\VS2015ProgramTest\Redis\Redis\obj\Debug\Redis.pdb
